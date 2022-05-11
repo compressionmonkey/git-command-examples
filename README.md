@@ -16,5 +16,9 @@ git fetch
 git commit -m "<message>"
 ```
 
+### git push 
 
+```
+git push <branchname:optional if you are on branch>
+```
 
